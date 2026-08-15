@@ -16,9 +16,9 @@ When run, it __automatically__:
 
 - Checks for `.ini` __file modifications__. When the user makes changes, at the next check (`10 sec` default), updates the program while running.
 
-- __Tray icon__ can be __double clicked__ to close the program or __right clicked__ to directly open or load the `.ini`.
+__Tray icon__ can be __double clicked__ to close the program or __right clicked__ to directly open or load the `.ini`.
 
-- Showing __temperatures__ need `admin` rights when opening the `.exe`.
+Showing __temperatures__ need `admin` rights when opening the `.exe`.
 
 
 
