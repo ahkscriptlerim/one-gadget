@@ -3,7 +3,7 @@ One desktop gadget you will ever need. Optimized for your tastes.
 
 ![One Gadget - Desktop Hardware Monitor](./screen.png)
 
-[__Source code__](https://github.com/ahkscriptlerim/one-gadget/blob/main/Compiled%20Standalone/One%20Gadget.exe?raw=true) and the [__standalone executable__](https://github.com/ahkscriptlerim/one-gadget/tree/main/Rust%20Workspace/?raw=true) rest in their directories, available for __download__.
+[__Source code__](https://github.com/ahkscriptlerim/one-gadget/tree/main/Rust%20Workspace/?raw=true) and the [__standalone executable__](https://github.com/ahkscriptlerim/one-gadget/blob/main/Compiled%20Standalone/One%20Gadget.exe?raw=true) rest in their directories, available for __download__.
 
 
 
