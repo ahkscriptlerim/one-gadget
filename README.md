@@ -90,22 +90,26 @@ Still, font, font sizes, background color `COLOR_TRANSPARENT`, even layout can b
 ## 🛡️ Architecture
 Fusing the raw power of __Rust__ with __precomputation__, the architecture reaches new heights:
 
-| Architectural Strengths | |
+|  |  |
 | :--- | :--- |
+| __Architectural Strengths__ | |
 | __Display & Multi-Monitor__ | Pixel-Perfect High-DPI |
 | __Windows Desktop Attachment__ | Robust Shell Integration |
 | __Memory Safety & Aging__ | Immune to Leak / Aging |
 | __Hot-Path Efficiency__ | Zero Hot-Path Allocations |
 | __Thread Safety & Locks__ | Deadlock-Free |
 | __Self-Contained Deployment__ | Zero External Dependencies |
-| | |
+|  |  |
 
 
 
 ## ⚡ Runtime Stats
 
-__RAM__ : __~19.1 MB__ (Solid, stable).
 
-__CPU__ : __~0.05%__ (Sometimes practically invisible to the OS scheduler).
+|  |  |
+| :--- | :--- |
+| __RAM__ | __~19.1 MB__ (Solid, stable). |
+| __CPU__ | __~0.05%__ (Sometimes practically invisible to the OS scheduler). |
+|  |  |
 
 
