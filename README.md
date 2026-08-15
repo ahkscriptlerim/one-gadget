@@ -95,8 +95,11 @@ Fusing the raw power of __Rust__ with __precomputation__, the architecture reach
 | __Architectural Strengths__ | |
 | __Display & Multi-Monitor__ | Pixel-Perfect High-DPI |
 | __Windows Desktop Attachment__ | Robust Shell Integration |
-| __Memory Safety & Aging__ | Immune to Leak / Aging |
+| __Lazy Initialization__ | Zero Overhead |
+| __Runtime Operation__ | Zero Redundant Computation |
 | __Hot-Path Efficiency__ | Zero Hot-Path Allocations |
+| __Memory Safety & Aging__ | Immune to Leak / Aging |
+| __Garbage Collection__ | No GC Required |
 | __Thread Safety & Locks__ | Deadlock-Free |
 | __Self-Contained Deployment__ | Zero External Dependencies |
 |  |  |
@@ -104,7 +107,6 @@ Fusing the raw power of __Rust__ with __precomputation__, the architecture reach
 
 
 ## ⚡ Runtime Stats
-
 
 |  |  |
 | :--- | :--- |
